@@ -14,7 +14,7 @@ model.pt
 
 ## How to Reproduce
 
-Open and run `mia_rmia_improved.ipynb` top to bottom. All steps are in order.
+Open and run `code.ipynb` top to bottom. All steps are in order.
 
 **1. Configuration** — seed, paths, and shadow model hyperparameters are set in the first config cell:
 
