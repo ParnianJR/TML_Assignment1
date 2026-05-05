@@ -11,7 +11,11 @@ pub.pt
 priv.pt
 model.pt
 ```
+Make sure to set your own `API_KEY` in this cell before running:
 
+```python
+API_KEY = "your_api_key_here"
+```
 ## How to Reproduce
 
 Open and run `code.ipynb` top to bottom. All steps are in order.
